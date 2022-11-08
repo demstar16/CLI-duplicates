@@ -1,4 +1,4 @@
-# duplcates
+# duplicates
 
 Due date: **11:59pm Friday 22nd October (end of week 12)**
 
